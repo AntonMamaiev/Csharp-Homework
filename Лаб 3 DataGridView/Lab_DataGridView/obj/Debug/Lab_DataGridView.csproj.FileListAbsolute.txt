@@ -1,0 +1,30 @@
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\bin\Debug\Lab_DataGridView.exe.config
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\bin\Debug\Lab_DataGridView.exe
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\bin\Debug\Lab_DataGridView.pdb
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.csprojAssemblyReference.cache
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form1.resources
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Properties.Resources.resources
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.csproj.GenerateResource.cache
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.exe
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.pdb
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form3.resources
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form4.resources
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form5.resources
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form6.resources
+C:\Users\anton_i2sb4ad\source\repos\Lab_DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form7.resources
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\bin\Debug\Lab_DataGridView.exe.config
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\bin\Debug\Lab_DataGridView.exe
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\bin\Debug\Lab_DataGridView.pdb
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.csproj.AssemblyReference.cache
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form1.resources
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form3.resources
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form4.resources
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form5.resources
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form6.resources
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Form7.resources
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.Properties.Resources.resources
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.csproj.GenerateResource.cache
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.exe
+C:\Users\trolo\Desktop\Лабы\ООП\2 семестр\Лаби WF\Лаб 3 DataGridView\Lab_DataGridView\obj\Debug\Lab_DataGridView.pdb

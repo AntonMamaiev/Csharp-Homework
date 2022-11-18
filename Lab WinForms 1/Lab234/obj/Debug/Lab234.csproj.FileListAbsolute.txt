@@ -1,0 +1,26 @@
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\bin\Debug\Lab234.exe.config
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\bin\Debug\Lab234.exe
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\bin\Debug\Lab234.pdb
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.csprojAssemblyReference.cache
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Form1.resources
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Properties.Resources.resources
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.csproj.GenerateResource.cache
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.csproj.CoreCompileInputs.cache
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.exe
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.pdb
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Form2.resources
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Form3.resources
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Form4.resources
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\bin\Debug\Lab234.exe.config
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\bin\Debug\Lab234.exe
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\bin\Debug\Lab234.pdb
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.csproj.AssemblyReference.cache
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Form1.resources
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Form2.resources
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Form3.resources
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Form4.resources
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.Properties.Resources.resources
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.csproj.GenerateResource.cache
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.csproj.CoreCompileInputs.cache
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.exe
+C:\Users\trolo\Desktop\Лабы\ООП\1 семестр\25_11_WF\Lab234\Lab234\obj\Debug\Lab234.pdb

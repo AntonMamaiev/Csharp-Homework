@@ -1,0 +1,11 @@
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\bin\Debug\PracLISTBOX.exe.config
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\bin\Debug\PracLISTBOX.exe
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\bin\Debug\PracLISTBOX.pdb
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\obj\Debug\PracLISTBOX.csprojAssemblyReference.cache
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\obj\Debug\PracLISTBOX.Form1.resources
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\obj\Debug\PracLISTBOX.Properties.Resources.resources
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\obj\Debug\PracLISTBOX.csproj.GenerateResource.cache
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\obj\Debug\PracLISTBOX.csproj.CoreCompileInputs.cache
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\obj\Debug\PracLISTBOX.exe
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\obj\Debug\PracLISTBOX.pdb
+C:\Users\anton_i2sb4ad\Desktop\Лабы\ООП\Listbox11_11\PracLISTBOX\obj\Debug\PracLISTBOX.Form2.resources
